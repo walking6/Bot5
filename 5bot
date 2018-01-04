@@ -75,9 +75,9 @@ Bmid = kk.getProfile().mid #Sanji
 Cmid = kc.getProfile().mid #Ussop
 Dmid = ks.getProfile().mid #Chooper
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid]
-admin=["ued156c86ffa56024c0acba16f7889e6d"] 
-owner=["ued156c86ffa56024c0acba16f7889e6d"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,"ubd4733f0bfa9782cbde32e03e3e0707"]
+admin=["ubd4733f0bfa9782cbde32e03e3e0707"] 
+owner=["ubd4733f0bfa9782cbde32e03e3e0707"]
 whitelist=[""]
 wait = {
     'contact':False,
